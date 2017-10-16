@@ -1,0 +1,14 @@
+$primary-color: #e0c759;
+$pale-grey: #edece8;
+$base-font:  'Roboto', sans-serif;
+
+html {
+  font-size: 16px;
+  font-family: $base-font;
+}
+
+body {
+  background-color: $pale-grey;
+  font-family: $base-font;
+  font-size: 1rem;
+}
